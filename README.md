@@ -1,1 +1,2 @@
-# Blueprint/CRUD/Bootstrap/Cru.js
+Desenvolvimento Web com Python (Flask Framework)
+ # Blueprint/CRUD/Bootstrap/Cru.js/PostgresSQL
